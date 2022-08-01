@@ -1,22 +1,27 @@
-## Welcome to GitHub Pages
+# My Reume
 
-You can use the [editor on GitHub](https://github.com/cloverchenchen/my-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Per aspera ad astra.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Basic Information
 
-```markdown
-Syntax highlighted code block
+### Clover(Xi) Chen
 
-# Header 1
-## Header 2
-### Header 3
+- Female
+- 2000/07/17
+- Tel: (+86)17326089176
+- Email: 17326089176@163.com
 
-- Bulleted
-- List
+## Educational Background
+
+### Beijing Foreign Studies Universtiy
+
+- 2021/09-2023/06
+- Conference Interpreting
+- 3.78/4.0
+- 2021 Beijing Foreign Studies University Third-class Scholarship
+
 
 1. Numbered
 2. List
@@ -24,7 +29,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
