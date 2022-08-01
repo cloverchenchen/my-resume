@@ -1,21 +1,21 @@
-# My Reume
+## My Resume
 
 
 Per aspera ad astra.
 
 
-## Basic Information
+### Basic Information
 
-### Clover(Xi) Chen
+**Clover(Xi) Chen**
 
 - Female
 - 2000/07/17
 - Tel: (+86)17326089176
 - Email: 17326089176@163.com
 
-## Educational Background
+### Educational Background
 
-### Beijing Foreign Studies Universtiy
+**Beijing Foreign Studies Universtiy**
 
 - 2021/09-2023/06
 - Conference Interpreting
